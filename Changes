@@ -1,11 +1,5 @@
 Revision history for Perl extension Carp::Notify.
 
-v1.00 - August 11, 2000 - First version on CPAN.  :)
-			  Changed the name from Explode to Carp::Notify.
-			  It's more descriptive and I don't create a new namespace.
-			  Added notify function (like "warn").
-			  Improved ability to work with multiple packages.
-			  Added ability to have globrefs as the log file.
-
-v1.00 FC1 - June 9, 2000 - First publically available version.
+0.01  Thu Apr 12 14:59:17 2001
+	- original version; created by h2xs 1.19
 

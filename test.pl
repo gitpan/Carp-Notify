@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 use lib "../";
 
 use Carp::Notify ("log_file" => \*STDOUT, "die_to_stdout" => 1, "email_it" => 0, 
@@ -6,3 +7,4 @@ use Carp::Notify ("log_file" => \*STDOUT, "die_to_stdout" => 1, "email_it" => 0,
 notify ("A notification occurred.");
 
 explode ("An explosion occurred.  Everything's a-ok.  :)");
+
