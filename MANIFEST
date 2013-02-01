@@ -1,5 +1,14 @@
 Changes
-Makefile.PL
+LICENSE
 MANIFEST
-Notify.pm
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Carp/Notify.pm
+t/00_1-10_regression.t
+t/author-critic.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
 test.pl
+weaver.ini
